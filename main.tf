@@ -1,0 +1,8 @@
+
+resource "" "name" {
+  
+}
+
+resource "" "name" {
+  
+}
