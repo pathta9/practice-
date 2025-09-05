@@ -11,6 +11,6 @@ resource "" "name" {
   
 }
 
-resource "" "prashant" {
+resource "" "prashant2" {
   
 }
