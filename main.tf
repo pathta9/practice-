@@ -7,4 +7,6 @@ resource "" "name" {
   
 }
 
-papa ki pari jyada mastikhot hai 
+papa ki pari jyada mastikhot hai maegi mere hathi se
+
+mar khaoge kya 
