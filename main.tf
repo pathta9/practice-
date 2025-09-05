@@ -7,4 +7,4 @@ resource "" "name" {
   
 }
 
-papa ki pari 
+papa ki pari jyada mastikhot hai 
